@@ -1,0 +1,5 @@
+* SPICE3 file created from /home/aditya/Desktop/cmos_inv/layout_inv.ext - technology: sky130A
+
+X0 a_220_n300# a_30_n60# vdd vdd sky130_fd_pr__pfet_01v8 ad=1.55 pd=7.2 as=1.55 ps=7.2 w=3.1 l=0.15
+X1 a_220_n300# a_30_n60# vcc vcc sky130_fd_pr__nfet_01v8 ad=0.45 pd=2.9 as=0.45 ps=2.9 w=1 l=0.15
+C0 vdd vcc 3.3773f **FLOATING
